@@ -5,7 +5,9 @@ public enum ObjectTypes {
   FOOD(2),
   WORMHOLE(3),
   GAS_CLOUD(4),
-  ASTEROID_FIELD(5);
+  ASTEROID_FIELD(5),
+  TORPEDO_SALVO(6),
+  SUPER_FOOD(7);
 
   public final Integer value;
 
